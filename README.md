@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a computer science student at the University of Helsinki interested in machine learning and its applications.
+
+- 🔭 I’m currently working on neural networks
+  - [Classifiers](https://github.com/vainiovesa/algolabra) and [in general](https://github.com/vainiovesa/backpropagation)
+- 🤝 I’m looking to collaborate on machine learning projects
+
 <!--
 **vainiovesa/vainiovesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
