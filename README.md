@@ -4,6 +4,7 @@ I'm a computer science student at the University of Helsinki interested in machi
 
 - 🔭 I’m currently working on neural networks
   - [Classifiers](https://github.com/vainiovesa/algolabra) and [in general](https://github.com/vainiovesa/neural-network)
+- 🌱 I’m currently learning C++
 - 🤝 I’m looking to collaborate on machine learning projects
 
 <!--
